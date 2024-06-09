@@ -1,0 +1,29 @@
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: 4px solid #928df5;
+    /* Blue border around the container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    max-height: 700px;
+    overflow-y: scroll;
+    width: 100%;
+}
+
+img {
+    width: 150px;
+    border: 1px solid black;
+}
+
+.container-cat {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: 4px solid #928df5;
+    /* Blue border around the container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    max-height: 700px;
+    width: 100%;
+}
